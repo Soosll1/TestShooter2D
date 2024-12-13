@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Hero
+  - Enemy
+  - Collectable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 782227505
+    locked: 0
+  - name: Enemy
+    uniqueID: 210147681
+    locked: 0
+  - name: Hero
+    uniqueID: 4287351045
+    locked: 0
+  - name: Loot
+    uniqueID: 801318845
+    locked: 0
+  - name: Armament
+    uniqueID: 342588641
+    locked: 0
+  - name: Front
+    uniqueID: 1795729107
+    locked: 0
+  - name: HUD
+    uniqueID: 1002043735
+    locked: 0
